@@ -94,7 +94,7 @@ siri-voice-bridge/
 ## Quick start
 
 ```bash
-git clone https://github.com/SaskullOps/homelab-ai-assistant.git
+git clone https://github.com/alexguardiola/homelab-ai-assistant.git
 cd homelab-ai-assistant/modules/siri-voice-bridge
 
 cp .env.example .env
